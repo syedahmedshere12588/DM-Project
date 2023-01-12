@@ -1,1 +1,6 @@
 # DM-Project
+DECODING ASYMPTOTIC NOTATION
+
+GRUOP MEMBER:
+Syed Ahmed Shere 12588
+Muhammad Saad 64745
